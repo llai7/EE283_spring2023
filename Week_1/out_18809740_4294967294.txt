@@ -1,0 +1,7 @@
+problem1/
+problem1/p.txt
+problem1/f.txt
+10th line from file p.txt:
+3 
+10th line from file f.txt
+55 
