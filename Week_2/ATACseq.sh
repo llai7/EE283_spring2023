@@ -32,8 +32,8 @@ do
 
 
 
-			   ln -s $READ1 $DestDir2/$variable_name
-			   ln -s $READ2 $DestDir2/$variable_name2
+			   ln -s $READ1 $DestDir2/${variable_name}.fq.gz
+			   ln -s $READ2 $DestDir2/${variable_name2}.fq.gz
 
 
 			  done < $File
