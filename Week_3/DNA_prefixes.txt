@@ -1,0 +1,12 @@
+/share/crsp/lab/satwood/llai7/EE283_spring2023/Week_2/DNAseq/ADL06_1
+/share/crsp/lab/satwood/llai7/EE283_spring2023/Week_2/DNAseq/ADL06_2
+/share/crsp/lab/satwood/llai7/EE283_spring2023/Week_2/DNAseq/ADL06_3
+/share/crsp/lab/satwood/llai7/EE283_spring2023/Week_2/DNAseq/ADL09_1
+/share/crsp/lab/satwood/llai7/EE283_spring2023/Week_2/DNAseq/ADL09_2
+/share/crsp/lab/satwood/llai7/EE283_spring2023/Week_2/DNAseq/ADL09_3
+/share/crsp/lab/satwood/llai7/EE283_spring2023/Week_2/DNAseq/ADL10_1
+/share/crsp/lab/satwood/llai7/EE283_spring2023/Week_2/DNAseq/ADL10_2
+/share/crsp/lab/satwood/llai7/EE283_spring2023/Week_2/DNAseq/ADL10_3
+/share/crsp/lab/satwood/llai7/EE283_spring2023/Week_2/DNAseq/ADL14_1
+/share/crsp/lab/satwood/llai7/EE283_spring2023/Week_2/DNAseq/ADL14_2
+/share/crsp/lab/satwood/llai7/EE283_spring2023/Week_2/DNAseq/ADL14_3
